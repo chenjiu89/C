@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+
+# Visual Studio user files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# C/C++ intermediate files
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
