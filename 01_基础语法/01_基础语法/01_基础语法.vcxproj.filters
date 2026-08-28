@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_变量.c">
+    <ClCompile Include="01_数据结构和变量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02_常见操作符和表达式求值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03_分支和循环语句.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

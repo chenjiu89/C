@@ -139,7 +139,9 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_变量.c" />
+    <ClCompile Include="01_数据结构和变量.c" />
+    <ClCompile Include="02_常见操作符和表达式求值.c" />
+    <ClCompile Include="03_分支和循环语句.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

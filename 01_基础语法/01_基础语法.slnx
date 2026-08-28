@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01_基础语法/01_基础语法.vcxproj" />
+  <Project Path="01_基础语法/01_基础语法.vcxproj" Id="c47234f3-0e7c-48de-933c-8fb1f24fbb22" />
 </Solution>
