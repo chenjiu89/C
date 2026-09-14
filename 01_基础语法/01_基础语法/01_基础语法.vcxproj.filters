@@ -24,5 +24,11 @@
     <ClCompile Include="03_分支和循环语句.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04_函数栈帧创建与销毁.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05_结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

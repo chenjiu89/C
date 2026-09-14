@@ -1,0 +1,5 @@
+﻿  二叉树前中后序遍历.c
+E:\WorkSpace\Code\C\Learning\08_树\08_树\二叉树前中后序遍历.c(18,3): warning C4098: “PrevOrder”:“void”函数返回值
+E:\WorkSpace\Code\C\Learning\08_树\08_树\二叉树前中后序遍历.c(30,3): warning C4098: “InOrder”:“void”函数返回值
+E:\WorkSpace\Code\C\Learning\08_树\08_树\二叉树前中后序遍历.c(42,3): warning C4098: “PostOrder”:“void”函数返回值
+  08_树.vcxproj -> E:\WorkSpace\Code\C\Learning\08_树\x64\Debug\08_树.exe
